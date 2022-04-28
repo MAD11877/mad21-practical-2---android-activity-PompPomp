@@ -69,6 +69,7 @@
         app:layout_constraintTop_toBottomOf="@+id/title" />
 
     <ScrollView
+        android:id="@+id/scrollView"
         android:layout_width="409dp"
         android:layout_height="0dp"
         app:layout_constraintBottom_toBottomOf="parent"
